@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proiect", "Proiect\Proiect.csproj", "{F8435C55-9FA9-405C-ABF7-188B7A0EE21E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaHistrograma", "BibliotecaHistrograma\BibliotecaHistrograma.csproj", "{FB54E24D-CFF4-4C39-9410-CAA9EF706B16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8435C55-9FA9-405C-ABF7-188B7A0EE21E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8435C55-9FA9-405C-ABF7-188B7A0EE21E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8435C55-9FA9-405C-ABF7-188B7A0EE21E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8435C55-9FA9-405C-ABF7-188B7A0EE21E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB54E24D-CFF4-4C39-9410-CAA9EF706B16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB54E24D-CFF4-4C39-9410-CAA9EF706B16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB54E24D-CFF4-4C39-9410-CAA9EF706B16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB54E24D-CFF4-4C39-9410-CAA9EF706B16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F40E8220-655B-4FF1-8F49-75ADF8B06F08}
+	EndGlobalSection
+EndGlobal

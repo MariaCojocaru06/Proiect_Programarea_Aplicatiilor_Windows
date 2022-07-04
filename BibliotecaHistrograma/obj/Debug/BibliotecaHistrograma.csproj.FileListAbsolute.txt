@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Proiect\BibliotecaHistrograma\bin\Debug\BibliotecaHistrograma.dll
+C:\Users\User\source\repos\Proiect\BibliotecaHistrograma\bin\Debug\BibliotecaHistrograma.pdb
+C:\Users\User\source\repos\Proiect\BibliotecaHistrograma\obj\Debug\BibliotecaHistrograma.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Proiect\BibliotecaHistrograma\obj\Debug\BibliotecaHistrograma.Histograma.resources
+C:\Users\User\source\repos\Proiect\BibliotecaHistrograma\obj\Debug\BibliotecaHistrograma.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Proiect\BibliotecaHistrograma\obj\Debug\BibliotecaHistrograma.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Proiect\BibliotecaHistrograma\obj\Debug\BibliotecaHistrograma.dll
+C:\Users\User\source\repos\Proiect\BibliotecaHistrograma\obj\Debug\BibliotecaHistrograma.pdb
